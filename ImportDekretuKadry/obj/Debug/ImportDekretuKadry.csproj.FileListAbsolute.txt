@@ -1,0 +1,11 @@
+C:\Users\magdaw\Documents\Wdrozenie2024\ImportDekretuKadry\ImportDekretuKadry\bin\Debug\ImportDekretuKadry.exe.config
+C:\Users\magdaw\Documents\Wdrozenie2024\ImportDekretuKadry\ImportDekretuKadry\bin\Debug\ImportDekretuKadry.exe
+C:\Users\magdaw\Documents\Wdrozenie2024\ImportDekretuKadry\ImportDekretuKadry\bin\Debug\ImportDekretuKadry.pdb
+C:\Users\magdaw\Documents\Wdrozenie2024\ImportDekretuKadry\ImportDekretuKadry\obj\Debug\ImportDekretuKadry.csproj.AssemblyReference.cache
+C:\Users\magdaw\Documents\Wdrozenie2024\ImportDekretuKadry\ImportDekretuKadry\obj\Debug\ImportDekretuKadry.Properties.Resources.resources
+C:\Users\magdaw\Documents\Wdrozenie2024\ImportDekretuKadry\ImportDekretuKadry\obj\Debug\ImportDekretuKadry.csproj.GenerateResource.cache
+C:\Users\magdaw\Documents\Wdrozenie2024\ImportDekretuKadry\ImportDekretuKadry\obj\Debug\ImportDekretuKadry.csproj.CoreCompileInputs.cache
+C:\Users\magdaw\Documents\Wdrozenie2024\ImportDekretuKadry\ImportDekretuKadry\obj\Debug\ImportDekretuKadry.exe
+C:\Users\magdaw\Documents\Wdrozenie2024\ImportDekretuKadry\ImportDekretuKadry\obj\Debug\ImportDekretuKadry.pdb
+C:\Users\magdaw\Documents\Wdrozenie2024\ImportDekretuKadry\ImportDekretuKadry\obj\Debug\ImportDekretuKadry.Form1.resources
+C:\Users\magdaw\Documents\Wdrozenie2024\ImportDekretuKadry\ImportDekretuKadry\obj\Debug\ImportDekretuKadry.csproj.ResolveComReference.cache
